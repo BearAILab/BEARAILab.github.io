@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        // 현재 URL을 가져옵니다.
+        const currentPath = window.location.pathname + window.location.search;
+
+        // index.html로 리다이렉트하며 현재 경로를 쿼리 파라미터로 전달합니다.
+        window.location.href = '/index.html' + currentPath;
+    </script>
+</head>
+<body>
+    <h1>Redirecting...</h1>
+    <p>If you are not redirected automatically, <a href="/">click here</a>.</p>
+</body>
+</html>
