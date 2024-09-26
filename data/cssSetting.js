@@ -1,7 +1,7 @@
 window.cssSetting = {
   Header: {
-    GradientFirst: '#CFC6E8',
-    GradientSecond: '#1A1A2E',
+    GradientFirst: '#6FC3DF',
+    GradientSecond: '#FFD480',
     color: '#ffffff',
     fontSize: '16px',
     logoHighlight: '#FFD700',
@@ -11,5 +11,18 @@ window.cssSetting = {
     backgroundColor: '#333333',
     width: '250px',
     fontSize: '14px',
+  },
+  Hero: {
+    GradientFirst: '#F5F9FF',
+    GradientSecond: '#A8DADC ',
+  },
+  Normal: {
+    Color: '#676767',
+    WeakColor: '#727272',
+    WeakestColor: '#929292',
+    Background: '#fcfcfc',
+    ButtonColor: '#525252',
+    ButtonInnerColor: '#ffffff',
+    IconFilter: 'invert(100%) brightness(200%)',
   },
 };
