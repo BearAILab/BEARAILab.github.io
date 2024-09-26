@@ -3,7 +3,6 @@ window.cssSetting = {
     GradientFirst: '#6FC3DF',
     GradientSecond: '#FFD480',
     color: '#ffffff',
-    fontSize: '16px',
     logoHighlight: '#FFD700',
   },
   Sidebar: {
