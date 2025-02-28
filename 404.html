@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting...</title>
+    <script>
+      // 현재 URL을 sessionStorage에 저장
+      const currentPath = window.location.pathname + window.location.search;
+      sessionStorage.setItem("redirect_path", currentPath);
+
+      // index.html로 리다이렉트
+      window.location.href = "/";
+    </script>
+  </head>
+  <body>
+    <h1>Redirecting...</h1>
+    <p>If you are not redirected automatically, <a href="/">click here</a>.</p>
+  </body>
+</html>

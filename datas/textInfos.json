@@ -1,0 +1,172 @@
+{
+  "noticeInfos": [
+    {
+      "title": "공지사항 1",
+      "date": "2023-10-01",
+      "description": "공지사항 1의 설명입니다.",
+      "text": ""
+    },
+    {
+      "title": "공지사항 2",
+      "date": "2023-10-02",
+      "description": "공지사항 2의 설명입니다.",
+      "text": ""
+    },
+    {
+      "title": "공지사항 3",
+      "date": "2023-10-03",
+      "description": "공지사항 3의 설명입니다.",
+      "text": ""
+    }
+  ],
+  "PublicationInfos": [
+    {
+      "index": 1,
+      "title": "Intraoperative hypotension prediction based on features automatically generated within an interpretable deep learning model,",
+      "authors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim,",
+      "journal": "IEEE Trans. Neural Netw. Learn. Syst. (2023),",
+      "paperLink": "#",
+      "codeLink": "#"
+    },
+    {
+      "index": 2,
+      "title": "Intraoperative hypotension prediction based on features automatically generated within an interpretable deep learning model,",
+      "authors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim,",
+      "journal": "IEEE Trans. Neural Netw. Learn. Syst. (2023),",
+      "paperLink": "#",
+      "codeLink": "#"
+    },
+    {
+      "index": 0,
+      "title": "Intraoperative hypotension prediction based on features automatically generated within an interpretable deep learning model,",
+      "authors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim,",
+      "journal": "IEEE Trans. Neural Netw. Learn. Syst. (2023),",
+      "paperLink": "#",
+      "codeLink": "#"
+    }
+  ],
+  "patentInfos": [
+    {
+      "index": 1,
+      "title": "Method and system for predicting intraoperative hypotension",
+      "inventors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
+      "patentNumber": "US1234567B1",
+      "patentLink": "#"
+    },
+    {
+      "index": 2,
+      "title": "System for monitoring and predicting patient health conditions",
+      "inventors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
+      "patentNumber": "US2345678B1",
+      "patentLink": "#"
+    },
+    {
+      "index": 0,
+      "title": "Artificial intelligence-based health data analysis system",
+      "inventors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
+      "patentNumber": "US3456789B1",
+      "patentLink": "#"
+    }
+  ],
+  "landingInfos": {
+    "HeroTitle": "Welcome to BEAR AI Lab",
+    "HeroSubtitle": "Medical AI Research Lab",
+    "aboutus": "연구소 한마디로 소개 문구\n\n저희는 **BEAR** 입니다.",
+    "researchArea": "우리 연구소는 **AI**, **생체신호**, **유전체(게놈)** 데이터를 활용하여 **Medical AI** 분야를 선도합니다. 최신 AI 기술을 통해 생체 신호와 유전자 정보를 분석하고, 이를 기반으로 질병 예측, 진단, 맞춤형 치료 솔루션을 개발합니다. 혁신적인 연구로 의료의 미래를 변화시키고 있습니다."
+  },
+  "aboutUsInfos": {
+    "aboutUsText": "# 인삿말\n우리 연구소는 최신 기술과 혁신을 통해 세상을 변화시키는 것을 목표로 하고 있습니다.\n\n# 연구소 소개\n우리 연구소는 **AI**, **생체신호**, **유전체(게놈)** 데이터를 활용하여 **Medical AI** 분야를 선도합니다. 최신 AI 기술을 통해 생체 신호와 유전자 정보를 분석하고, 이를 기반으로 질병 예측, 진단, 맞춤형 치료 솔루션을 개발합니다. 혁신적인 연구로 의료의 미래를 변화시키고 있습니다.\n\n# 연구소의 가치관\n- **혁신**: 우리는 항상 새로운 아이디어를 추구합니다.\n- **협력**: 우리는 팀워크와 협력을 중요시합니다.\n- **지속 가능성**: 우리는 환경을 보호하고 지속 가능한 미래를 위해 노력합니다.\n\n# 최근 연구 및 과제\n- **AI 및 머신러닝**: 자율주행 자동차를 위한 최신 알고리즘 개발\n- **바이오테크놀로지**: 신약 개발을 위한 유전자 분석 연구\n- **에너지**: 지속 가능한 에너지 솔루션 연구\n\n# 연구소의 위치\n서울특별시 강남구 테헤란로 123, ABC 빌딩 10층\n연락처: 02-1234-5678\n이메일: info@bearailab.com",
+    "location": "서울특별시 강남구 테헤란로 123, ABC 빌딩 10층"
+  },
+  "peopleInfos": {
+    "currentMember": {
+      "professor": [
+        {
+          "name": "June-Tae Kim",
+          "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/220bf823ebcafac31d7eeb6c1f00c986481c2310458497b65c8c02cf8299399a?placeholderIfAbsent=true&apiKey=09e51bf2905f45f78e57fbb71de7c4b3",
+          "title": "Assistant Professor",
+          "description": "Artificial Intelligence R&D, Health Data Science",
+          "email": "emailAddress@gmail.com",
+          "cvLink": "https://www.google.com"
+        }
+      ],
+      "member": [
+        {
+          "name": "Kyoung-Suk Park",
+          "title": "Postdoctoral Researcher",
+          "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/220bf823ebcafac31d7eeb6c1f00c986481c2310458497b65c8c02cf8299399a?placeholderIfAbsent=true&apiKey=09e51bf2905f45f78e57fbb71de7c4b3",
+          "description": "Artificial Intelligence R&D, Health Data Science",
+          "email": "emailAddress@gmail.com",
+          "cvLink": "https://www.google.com"
+        },
+        {
+          "name": "Dong-In Kim",
+          "imageSrc": "null",
+          "title": "Researcher",
+          "description": "Artificial Intelligence R&D, Health Data Science",
+          "email": "emailAddress@gmail.com",
+          "cvLink": "https://www.google.com"
+        },
+        {
+          "name": "Kanghee Kim",
+          "imageSrc": "null",
+          "title": "Researcher",
+          "description": "Artificial Intelligence R&D, Health Data Science",
+          "email": "emailAddress@gmail.com",
+          "cvLink": "https://www.google.com"
+        }
+      ],
+      "student": [
+        {
+          "name": "Kyoung-Suk Park",
+          "title": "Postdoctoral Researcher",
+          "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/220bf823ebcafac31d7eeb6c1f00c986481c2310458497b65c8c02cf8299399a?placeholderIfAbsent=true&apiKey=09e51bf2905f45f78e57fbb71de7c4b3",
+          "description": "Artificial Intelligence R&D, Health Data Science",
+          "email": "emailAddress@gmail.com",
+          "cvLink": "https://www.google.com"
+        },
+        {
+          "name": "Dong-In Kim",
+          "imageSrc": "null",
+          "title": "Researcher",
+          "description": "Artificial Intelligence R&D, Health Data Science",
+          "email": "emailAddress@gmail.com",
+          "cvLink": "https://www.google.com"
+        }
+      ]
+    },
+    "alumni": [
+      {
+        "name": "Kyoung-Suk Park",
+        "title": "Postdoctoral Researcher",
+        "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/220bf823ebcafac31d7eeb6c1f00c986481c2310458497b65c8c02cf8299399a?placeholderIfAbsent=true&apiKey=09e51bf2905f45f78e57fbb71de7c4b3",
+        "description": "Artificial Intelligence R&D, Health Data Science",
+        "cvLink": "https://www.google.com",
+        "email": "emailAddress@gmail.com",
+        "affiliations": "A LAB"
+      },
+      {
+        "name": "Dong-In Kim",
+        "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/220bf823ebcafac31d7eeb6c1f00c986481c2310458497b65c8c02cf8299399a?placeholderIfAbsent=true&apiKey=09e51bf2905f45f78e57fbb71de7c4b3",
+        "title": "Researcher",
+        "description": "Artificial Intelligence R&D, Health Data Science",
+        "email": "emailAddress@gmail.com",
+        "affiliations": "A LAB",
+        "cvLink": "https://www.google.com"
+      },
+      {
+        "name": "Kanghee Kim",
+        "imageSrc": "https://cdn.builder.io/api/v1/image/assets/TEMP/220bf823ebcafac31d7eeb6c1f00c986481c2310458497b65c8c02cf8299399a?placeholderIfAbsent=true&apiKey=09e51bf2905f45f78e57fbb71de7c4b3",
+        "title": "Researcher",
+        "description": "Artificial Intelligence R&D, Health Data Science",
+        "email": "emailAddress@gmail.com",
+        "affiliations": "A LAB",
+        "cvLink": "https://www.google.com"
+      }
+    ]
+  },
+  "footerInfo": {
+    "address": "123 Bear Lab St, Research City, RC 12345",
+    "email": "contact@bearlab.com"
+  }
+}

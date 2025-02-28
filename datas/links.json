@@ -1,0 +1,51 @@
+{
+  "homeUrl": {
+    "text": "Home",
+    "link": "/",
+    "activate": true
+  },
+  "aboutUrl": {
+    "text": "About Us",
+    "link": "/about",
+    "activate": true
+  },
+  "peopleUrl": {
+    "text": "People",
+    "link": "/people",
+    "activate": true,
+    "navigations": [
+      {
+        "key": "researcher",
+        "text": "Researcher",
+        "activate": true
+      },
+      {
+        "key": "alumni",
+        "text": "Alumni",
+        "activate": true
+      }
+    ]
+  },
+  "pubUrl": {
+    "text": "Publication",
+    "link": "/publication",
+    "activate": true,
+    "navigations": [
+      {
+        "key": "publications",
+        "text": "Publications",
+        "activate": true
+      },
+      {
+        "key": "patents",
+        "text": "Patents",
+        "activate": true
+      }
+    ]
+  },
+  "noticeUrl": {
+    "text": "Notice Board",
+    "link": "/board",
+    "activate": true
+  }
+}

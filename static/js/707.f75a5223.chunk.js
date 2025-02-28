@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunklab_newdesign=self.webpackChunklab_newdesign||[]).push([[707],{5707:(e,n,a)=>{a.r(n),a.d(n,{default:()=>u});var r=a(9379),s=a(3279),d=a(4879),l=a(9914);var u=(0,r.A)((0,r.A)({renderer:l.J},s.W),d.n)}}]);
+//# sourceMappingURL=707.f75a5223.chunk.js.map

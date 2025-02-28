@@ -1,0 +1,47 @@
+{
+  "idCount": 6,
+  "imageInfos": [
+    {
+      "id": 1,
+      "name": "HeroImage",
+      "url": "/images/HeroImage.jpg",
+      "category": "normal",
+      "description": "Hero를 위한 이미지"
+    },
+    {
+      "id": 2,
+      "name": "Logo",
+      "url": "/images/Logo.png",
+      "category": "system",
+      "description": "로고 이미지"
+    },
+    {
+      "id": 3,
+      "name": "person",
+      "category": "system",
+      "url": "/images/person.png",
+      "description": "연구원 기본이미지"
+    },
+    {
+      "id": 4,
+      "name": "vennDiagram",
+      "url": "/images/vennDiagram.jpg",
+      "category": "system",
+      "description": "vennDiagram 이미지"
+    },
+    {
+      "id": 5,
+      "name": "vennDiagramNoShadow",
+      "category": "system",
+      "url": "/images/vennDiagramNoShadow.jpg",
+      "description": "그림자가 없는 vennDiagram 이미지"
+    },
+    {
+      "id": 6,
+      "name": "verticalHeroImage",
+      "category": "normal",
+      "url": "/images/verticalHeroImage.jpg",
+      "description": "Hero이미지"
+    }
+  ]
+}
