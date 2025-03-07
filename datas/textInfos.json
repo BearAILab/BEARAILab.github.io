@@ -17,17 +17,16 @@
       "date": "2023-10-03",
       "description": "공지사항 3의 설명입니다.",
       "text": ""
+    },
+    {
+      "index": 4,
+      "title": "공지4",
+      "date": "2025-03-07",
+      "description": "설명",
+      "text": "공지입니다"
     }
   ],
   "PublicationInfos": [
-    {
-      "index": 0,
-      "title": "Intraoperative hypotension prediction based on features automatically generated within an interpretable deep learning model",
-      "authors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
-      "journal": "IEEE Trans. Neural Netw. Learn. Syst. (2023)",
-      "paperLink": "#https://ieeexplore.ieee.org/document/10130807",
-      "codeLink": "https://github.com/JunetaeKim/DWTHPI"
-    },
     {
       "index": 1,
       "title": "Intraoperative hypotension prediction based on features automatically generated within an interpretable deep learning model,",
@@ -43,16 +42,17 @@
       "journal": "IEEE Trans. Neural Netw. Learn. Syst. (2023),",
       "paperLink": "#",
       "codeLink": "#"
+    },
+    {
+      "index": 0,
+      "title": "Intraoperative hypotension prediction based on features automatically generated within an interpretable deep learning model,",
+      "authors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim,",
+      "journal": "IEEE Trans. Neural Netw. Learn. Syst. (2023),",
+      "paperLink": "#",
+      "codeLink": "#"
     }
   ],
   "patentInfos": [
-    {
-      "index": 0,
-      "title": "Artificial intelligence-based health data analysis system",
-      "inventors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
-      "patentNumber": "US3456789B1",
-      "patentLink": "#"
-    },
     {
       "index": 1,
       "title": "Method and system for predicting intraoperative hypotension",
@@ -68,10 +68,10 @@
       "patentLink": "#"
     },
     {
-      "index": 4,
-      "title": "Signal Cleansing",
-      "inventors": "J. Kim",
-      "patentNumber": "33333333",
+      "index": 0,
+      "title": "Artificial intelligence-based health data analysis system",
+      "inventors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
+      "patentNumber": "US3456789B1",
       "patentLink": "#"
     }
   ],
