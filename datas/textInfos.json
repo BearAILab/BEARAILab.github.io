@@ -71,7 +71,7 @@
   "landingInfos": {
     "HeroTitle": "Welcome to BEAR AI Lab",
     "HeroSubtitle": "Medical AI Research Lab",
-    "aboutus": "연구소 한마디로 소개 문구\n\n저희는 **BEAR** 입니다.",
+    "aboutus": "연구소 한마디로 소개 문구\n\n저희는 **BEAR** 입니다.\n\n![person](/images/person.png)",
     "researchArea": "우리 연구소는 **AI**, **생체신호**, **유전체(게놈)** 데이터를 활용하여 **Medical AI** 분야를 선도합니다. 최신 AI 기술을 통해 생체 신호와 유전자 정보를 분석하고, 이를 기반으로 질병 예측, 진단, 맞춤형 치료 솔루션을 개발합니다. 혁신적인 연구로 의료의 미래를 변화시키고 있습니다.\n"
   },
   "aboutUsInfos": {
