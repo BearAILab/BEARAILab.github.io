@@ -100,7 +100,7 @@
           "cvLink": "https://www.google.com"
         },
         {
-          "name": "Dong-In Kim",
+          "name": "Kanghee Kim",
           "imageSrc": "null",
           "title": "Researcher",
           "description": "Artificial Intelligence R&D, Health Data Science",
@@ -108,8 +108,8 @@
           "cvLink": "https://www.google.com"
         },
         {
-          "name": "Kanghee Kim",
-          "imageSrc": "null",
+          "name": "Dong-In Kim",
+          "imageSrc": "images/people/Dong-In Kim_img.png",
           "title": "Researcher",
           "description": "Artificial Intelligence R&D, Health Data Science",
           "email": "emailAddress@gmail.com",
