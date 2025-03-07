@@ -4,7 +4,7 @@
       "title": "공지사항 1",
       "date": "2023-10-01",
       "description": "공지사항 1의 설명입니다.",
-      "text": ""
+      "text": "# 안녕하세요\n공지입니다.\n![person](/images/person.png)\n"
     },
     {
       "title": "공지사항 2",
@@ -127,7 +127,7 @@
         },
         {
           "name": "Dong-In Kim",
-          "imageSrc": "images/people/Dong-In Kim_img.png",
+          "imageSrc": "null",
           "title": "Researcher",
           "description": "Artificial Intelligence R&D, Health Data Science",
           "email": "emailAddress@gmail.com",
