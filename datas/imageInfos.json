@@ -1,4 +1,5 @@
 {
+  "idCount": 6,
   "imageInfos": [
     {
       "id": 1,
@@ -41,12 +42,6 @@
       "category": "normal",
       "url": "/images/verticalHeroImage.jpg",
       "description": "Hero이미지"
-    },
-    {
-      "name": "imageTest",
-      "url": "images/imageTest.png",
-      "category": "normal",
-      "description": "TestImage"
     }
   ]
 }
