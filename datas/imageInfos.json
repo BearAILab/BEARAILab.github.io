@@ -45,7 +45,8 @@
     {
       "name": "VABAM Synthesis Results",
       "url": "images/VABAM Synthesis Results.png",
-      "category": "normal"
+      "category": "normal",
+      "description": ""
     }
   ]
 }
