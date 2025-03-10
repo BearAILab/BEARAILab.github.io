@@ -66,6 +66,13 @@
       "inventors": "Eugene Hwang, Yong-Seok Park, Jin-Young Kim, Sung-Hyuk Park, Junetae Kim, and Sung-Hoon Kim",
       "patentNumber": "US2345678B1",
       "patentLink": "#"
+    },
+    {
+      "index": 4,
+      "title": "Artifact Cleansing",
+      "inventors": "J. Kim",
+      "patentNumber": "33333333",
+      "patentLink": "#"
     }
   ],
   "landingInfos": {
